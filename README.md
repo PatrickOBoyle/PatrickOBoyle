@@ -6,6 +6,6 @@ I'm a software engineer passionate about building great products, coding & desig
 
 
 ## Find me 📍
-- Occasionally blogging on <a href="https://patrickoboyle.com" target="_blank" rel="noopener noreferrer">patrickoboyle.com</a> ✍️
-- Going to begin sharing work at <a href="https://codepen.io/patrickoboyle" target="_blank" rel="noopener noreferrer">CodePen</a> 👨‍💻
-- Sharing updates on <a href="https://www.linkedin.com/in/patrickoboyler/" target="_blank" rel="noopener noreferrer">LinkedIn</a> 💼
+- Occasionally blogging on <a href="https://patrickoboyle.com">patrickoboyle.com</a> ✍️
+- Going to begin sharing work at <a href="https://codepen.io/patrickoboyle">CodePen</a> 👨‍💻
+- Sharing updates on <a href="https://www.linkedin.com/in/patrickoboyler/">LinkedIn</a> 💼
