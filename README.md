@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PatrickOBoyle/PatrickOBoyle/main/images/github-readme-banner.png" alt="banner that says Patrick O'Boyle - Software engineer, product designer & occasional blogger">
 
-I'm a software engineer passionate about building great products, coding & designing and occasionally writing. These days I'm enjoying working with React, CSS, TypeScript, JavaScript and Swift. I'm currently rebuilding my website to focus on making it more iterable and support blogging so more on that soon™️
+I'm a software engineer passionate about building great products, coding & designing and occasionally writing. These days I'm enjoying working with React, CSS, TypeScript, JavaScript and Swift. I'm currently rebuilding my website to focus on making it more iterable and support blogging so more on that soon™.
 
 
 ## Find me 📍
