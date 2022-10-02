@@ -7,5 +7,4 @@ Software engineer passionate about building great products, coding & designing a
 
 ## Find me 📍
 - Occasionally blogging on <a href="https://patrickoboyle.com">patrickoboyle.com</a> ✍️
-- Beginning to share work at <a href="https://codepen.io/patrickoboyle">CodePen</a> 👨‍💻
 - Sharing updates on <a href="https://www.linkedin.com/in/patrickoboyler/">LinkedIn</a> 💼
